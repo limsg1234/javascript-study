@@ -30,3 +30,25 @@ const nico = {
 {} 안의 데이터는 바꿀 수 있다.    
 nico.age = 40    
 nico 자체는 못바꾼다.     
+
+
+함수   
+function 이름 () {}   
+
+argument, parameter 인자   
+함수는 인자를 받음. 변수같은 것. 
+function 이름 (인자) {}
+ 
+ 
+ 
+ HTML을 DOM 객체로 바꿀 수 있다.     
+ id - document.getElementById()
+ 
+ document.querySelector("#id");   
+ 
+ 이벤트   
+ .addEventListener("click", 함수 );   
+ 
+
+로컬 스토리지   
+작은 정보를 유저 컴퓨터에 저장하는 방법.  
